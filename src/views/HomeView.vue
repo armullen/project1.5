@@ -3,7 +3,11 @@
 </script>
 
 <template>
-  <div class="home">
-    <h1>This is a home page</h1>
-  </div>
+  <h1>Home</h1>
 </template>
+
+<style scoped>
+
+
+</style>
+```
